@@ -1,2 +1,2 @@
 # Welcome!
-## ```markdown LT2 Gui Documentation ```
+## ```LT2 Gui Documentation ```
